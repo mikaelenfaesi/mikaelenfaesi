@@ -4,7 +4,6 @@
 
 </div>
 
-
 <div align="center">
   <img
     height=165
@@ -94,5 +93,16 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 </div>
-<br/>
-<br/>
+
+<br>
+
+<div align="center" width="100%">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mikaelenfaesi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mikaelen-faesi-73bb171b0)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1210611547022565387)
+
+</div>
+
+<br>
+<br>
