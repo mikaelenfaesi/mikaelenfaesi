@@ -1,5 +1,7 @@
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=1191ff&width=900&size=21&center=true&lines=Hello+friend...;It's me, Mikaelen Faesi!;I'm+a+Web+Designer+and+Developer;Be+welcome!" alt="Typing SVG"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=25&pause=1000&color=1191FF&center=true&width=435&lines=Hello+friend...;It's+me%2C+Mikaelen+Faesi!;I'm+a+Web+Designer+and+Developer;Be+Welcome!)](https://git.io/typing-svg)
+
 </div>
 
 
